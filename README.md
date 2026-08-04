@@ -54,6 +54,7 @@ password-generator/
 ├── index.html   # Full app: markup, styles, and script in one file
 └── README.md    # This file
 ```
+screenshots:
 
 ## Possible extensions
 
