@@ -55,7 +55,7 @@ password-generator/
 └── README.md    # This file
 ```
 screenshots:
-
+![alt text](image.png)
 ## Possible extensions
 
 - Passphrase mode (word-based, e.g. `correct-horse-battery-staple`)
