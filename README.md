@@ -40,7 +40,7 @@ No installation or server needed.
 
 > Note: Passwords are generated and checked entirely client-side in your browser. Nothing is sent anywhere or stored — this tool does not use `localStorage` since passwords are sensitive and shouldn't persist.
 
-## Tech stack
+## 
 
 - HTML5
 - CSS3 (custom properties, no framework)
