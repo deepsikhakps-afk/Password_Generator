@@ -38,7 +38,8 @@ No installation or server needed.
 2. Adjust length and character-type options, then click **Generate password**.
 3. Use the **Check your own password** box to test any existing password.
 
-> Note: Passwords are generated and checked entirely client-side in your
+> Note: Passwords are generated and checked entirely client-side in your browser. Nothing is sent anywhere or stored — this tool does not use `localStorage` since passwords are sensitive and shouldn't persist.
+
 ## Tech stack
 
 - HTML5
