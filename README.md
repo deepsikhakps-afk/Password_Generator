@@ -32,7 +32,8 @@ A simple, **no-database** password generator and strength checker built with pla
 
 ## How to run
 
-No installation 
+No installation or server needed.
+
 1. Open `index.html` directly in any modern browser.
 2. Adjust length and character-type options, then click **Generate password**.
 3. Use the **Check your own password** box to test any existing password.
