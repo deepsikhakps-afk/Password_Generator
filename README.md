@@ -21,10 +21,7 @@ A simple, **no-database** password generator and strength checker built with pla
   One-click copy with a small confirmation toast.
 
 - **Strength Meter**
-  A 4-segment strength bar (Weak / Fair / Good / Strong) that scores a password based on:
-  - Length
-  - Character variety (upper/lower/numbers/symbols)
-  - Repeated-character patterns
+  A 4-segment strs
   - Single-character-class passwords (e.g. only letters or only numbers)
 
 - **Check Your Own Password**
