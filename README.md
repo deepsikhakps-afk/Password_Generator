@@ -60,6 +60,6 @@ screenshots:
 
 - Passphrase mode (word-based, e.g. `correct-horse-battery-staple`)
 - Exclude ambiguous characters option (e.g. `0` vs `O`, `1` vs `l`)
-- Password history within the session (not persisted, for comparison)
+- Password history wssion (not persisted, for comparison)
 - Estimated crack-time display alongside the strength meter
 - Dark/light theme toggle
