@@ -62,4 +62,4 @@ screenshots:
 - Exclude ambiguous characters option (e.g. `0` vs `O`, `1` vs `l`)
 - Password history within the session (not persisted, for comparison)
 - Estimated crack-time display alongside the strength meter
-- Dark/light theme toggle
+- Dark/light theme 
